@@ -1,0 +1,2 @@
+R4A_3.4.3.9-099为老毛子
+openwrt-ramips-mt7621-xiaomi_r4a-squashfs-sysupgrade为openwrt
